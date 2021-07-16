@@ -1,6 +1,6 @@
-# S02P01 For Each & If Statement
+# S03P01 Switch
 
-This project is my solution in **C#** to the For Each & If Statement practice found in section 02 practice 01 of the UiPath - RPA Developer Foundation course.
+This project is my solution in **C#** to the **Switch** practice found in section 03 practice 03 of the UiPath - RPA Developer Foundation course.
 
 ### Getting Started
 
@@ -12,26 +12,40 @@ After making a pull request or downloading the project, open the Main.xaml in Ui
 
 **Section:** 02 Variables, Data Types And Control Flow In Studio
 
-**Practice:** For Each & If Statement
+**Practice:** Switch
 
-**Repository Name:** RPADev-S02P01-ForEachIfStatement
-
-**GitHub:** https://github.com/ShonHarsh/RPADev-S02P01-ForEachIfStatement
+**GitHub:** https://github.com/ShonHarsh/RPADev-S02P03-Switch
 
 ### RPA Developer Foundation Sections
 
 1. Get Started With RPA Development
+
 2. Variables, Data Types And Control Flow In Studio
+
+   A. [RPADev-S02P01-ForEachIfStatement](https://github.com/ShonHarsh/RPADev-S02P01-ForEachIfStatement)
+   B. [RPADev-S02P02-GenericValue](https://github.com/ShonHarsh/RPADev-S02P02-GenericValue)
+   C. [RPADev-S02P03-Switch](https://github.com/ShonHarsh/RPADev-S02P03-Switch)
+
 3. Data Manipulation In Studio
+
 4. Excel And Data Tables With Studio
+
 5. UI Automation With Studio
+
 6. Selectors In Studio
+
 7. Project Organization In Studio
+
 8. Error And Exception Handling In Studio
+
 9. Debugging In Studio
+
 10. PDF Automation In Studio
+
 11. Email Automation With Studio
+
 12. Orchestrator For RPA Developers
+
 13. Robotic Enterprise Framework Overview
 
 ### Requirements
@@ -42,7 +56,7 @@ After making a pull request or downloading the project, open the Main.xaml in Ui
 
 Clone the project to develop or change it.
 
-`git clone https://github.com/ShonHarsh/RPADev-S02P01-ForEachIfStatement`
+`git clone https://github.com/ShonHarsh/RPADev-S02P03-Switch`
 
 ### Links
 
@@ -51,16 +65,3 @@ Clone the project to develop or change it.
 [UiPath Studio](https://www.uipath.com/product/studio)
 
 [My Website](https://shonharsh.github.io/curriculum-vitae/index.html) - Errors, spelling fixes and comments are very welcome!
-
-
-
-
-
-
-
-
-
-
-
-
-
