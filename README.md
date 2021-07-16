@@ -1,3 +1,5 @@
+![](https://shonharsh.github.io/curriculum-vitae/images/uipath-logo.png)
+
 # S03P01 Switch
 
 This project is my solution in **C#** to the **Switch** practice found in section 03 practice 03 of the UiPath - RPA Developer Foundation course.
