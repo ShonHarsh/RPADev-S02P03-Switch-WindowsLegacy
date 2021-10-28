@@ -8,6 +8,16 @@ This project is my solution in **C#** to the **Switch** practice found in sectio
 
 After making a pull request or downloading the project, open the Main.xaml in UiPath Studio.  The robot can be run with the play button in the ribbon and the result can be seen in output pane.
 
+#### PRACTICE REQUIREMENTS
+
+###### **Separate a collection of error codes using Switch**
+
+Considering a collection of error codes stored in an Array of Strings, separate them based on their type of error code ("Ax", "Bx" or “Cx”) and store them in 3 different arrays. 
+
+**Note**: The initial Array should contain the following values: 
+
+"Ax001","Ax002","Ax003","Ax004","Ax005","Bx001","Bx002","Bx003","Cx001","Cx002","Cx003","Cx004"
+
 ### Details
 
 **Course:** UiPath - RPA Developer Foundation
