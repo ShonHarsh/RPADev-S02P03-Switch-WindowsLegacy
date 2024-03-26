@@ -1,6 +1,8 @@
-03/21/2024 13:28:53 => [Debug] Debug started for file: Main
-03/21/2024 13:28:54 => [Info] RPADev-S02P01-ForEachIfStatement execution started
-03/21/2024 13:28:54 => [Info] RPADev-S02P01-ForEachIfStatement.Array_GetMinimum.Minimum; -42
-03/21/2024 13:28:54 => [Info] RPADev-S02P01-ForEachIfStatement.Array_GetMaximum.Maximum; 65535
-03/21/2024 13:28:54 => [Info] RPADev-S02P01-ForEachIfStatement.Main.OperationCompleted;
-03/21/2024 13:28:54 => [Info] RPADev-S02P01-ForEachIfStatement execution ended in: 00:00:00
+03/26/2024 15:36:12 => [Debug] Debug started for file: Main
+03/26/2024 15:36:14 => [Info] SRPADev-S02P03-Switch execution started
+03/26/2024 15:36:14 => [Debug] The processing encountered the default case of the error codes.  The unhandled error code value is: Dx314
+03/26/2024 15:36:14 => [Debug] The processing encountered the default case of the error codes.  The unhandled error code value is: BadError
+03/26/2024 15:36:14 => [Debug] AX codes: Ax001, Ax002, Ax003, Ax004, Ax005
+03/26/2024 15:36:14 => [Debug] BX codes: Bx001, Bx002, Bx003
+03/26/2024 15:36:14 => [Debug] CX codes: Cx001, Cx002, Cx003, Cx004
+03/26/2024 15:36:14 => [Info] SRPADev-S02P03-Switch execution ended in: 00:00:00
