@@ -1,5 +1,5 @@
 {
-  "name": "SRPADev-S02P03-Switch",
+  "name": "SRPADev-S02P03-Switch-WindowsLegacy",
   "projectId": "3bcd4e87-6543-4ee6-9eb2-04026f0f6bdf",
   "description": "Separate a collection of error codes using Switch\r\n\r\nConsidering a collection of error codes stored in an Array of Strings, separate them based on their type of error code (\"Ax\", \"Bx\" or “Cx”) and store them in 3 different arrays. \r\n\r\nNote: The initial Array should contain the following values: \r\n\r\n\"Ax001\",\"Ax002\",\"Ax003\",\"Ax004\",\"Ax005\",\"Bx001\",\"Bx002\",\"Bx003\",\"Cx001\",\"Cx002\",\"Cx003\",\"Cx004\"",
   "main": "Main.xaml",
