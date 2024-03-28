@@ -28,7 +28,7 @@ Considering a collection of error codes stored in an Array of Strings, separate 
 
 **Project Format:** Windows Legacy (Deprecated), C#
 
-**GitHub:** https://github.com/ShonHarsh/RPADev-S02P03-Switch
+**GitHub:** https://github.com/ShonHarsh/RPADev-S02P03-Switch-WindowsLegacy
 
 ### Sample Output
 
@@ -53,7 +53,7 @@ A standard UiPath, Studio to Orchestrator cloud setup is the base of operation. 
 
 Clone the project to develop or change it.
 
-`git clone https://github.com/ShonHarsh/RPADev-S02P02-GenericValue`
+`git clone https://github.com/ShonHarsh/RPADev-S02P03-Switch-WindowsLegacy`
 
 ### LINKS
 - [UiPath Automation Platform](https://www.uipath.com/)
