@@ -1,8 +1,8 @@
-03/26/2024 15:36:12 => [Debug] Debug started for file: Main
-03/26/2024 15:36:14 => [Info] SRPADev-S02P03-Switch execution started
-03/26/2024 15:36:14 => [Debug] The processing encountered the default case of the error codes.  The unhandled error code value is: Dx314
-03/26/2024 15:36:14 => [Debug] The processing encountered the default case of the error codes.  The unhandled error code value is: BadError
-03/26/2024 15:36:14 => [Debug] AX codes: Ax001, Ax002, Ax003, Ax004, Ax005
-03/26/2024 15:36:14 => [Debug] BX codes: Bx001, Bx002, Bx003
-03/26/2024 15:36:14 => [Debug] CX codes: Cx001, Cx002, Cx003, Cx004
-03/26/2024 15:36:14 => [Info] SRPADev-S02P03-Switch execution ended in: 00:00:00
+04/02/2024 12:57:13 => [Debug] Debug started for file: Main
+04/02/2024 12:57:16 => [Info] SRPADev-S02P03-Switch-WindowsLegacy execution started
+04/02/2024 12:57:16 => [Debug] The processing encountered the default case of the error codes.  The unhandled error code value is: Dx314
+04/02/2024 12:57:16 => [Debug] The processing encountered the default case of the error codes.  The unhandled error code value is: BadError
+04/02/2024 12:57:17 => [Debug] AX codes: Ax001, Ax002, Ax003, Ax004, Ax005
+04/02/2024 12:57:17 => [Debug] BX codes: Bx001, Bx002, Bx003
+04/02/2024 12:57:17 => [Debug] CX codes: Cx001, Cx002, Cx003, Cx004
+04/02/2024 12:57:17 => [Info] SRPADev-S02P03-Switch-WindowsLegacy execution ended in: 00:00:00
