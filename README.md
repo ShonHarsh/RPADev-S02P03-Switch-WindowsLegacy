@@ -1,4 +1,4 @@
-![](https://shonharsh.github.io/curriculum-vitae/images/banner-uipath.png)
+![UiPath](https://shonharsh.github.io/curriculum-vitae/images/banner-uipath.png)
 
 # S02P03 Switch
 
@@ -8,7 +8,7 @@ This project is my solution in **Windows Legacy (Deprecated), C#** to the **Swit
 
 After making a pull request or downloading the project, open the Main.xaml in UiPath Studio.  The robot can be run with the play button in the ribbon and the result can be seen in output pane.
 
-#### PRACTICE REQUIREMENTS
+#### Practice Requirements
 
 ###### **Separate a collection of error codes using Switch**
 
@@ -43,26 +43,26 @@ Considering a collection of error codes stored in an Array of Strings, separate 
 07/16/2021 14:17:11 => [Info] SRPADev-S02P03-Switch execution ended in: 00:00:01
 ```
 
-### ARCHITECTURE REQUIREMENTS
+### Architecture Requirements
 
 A standard UiPath, Studio to Orchestrator cloud setup is the base of operation.  It is easy to setup and free.
 1. An Orchestrator connection - Visit https://cloud.uipath.com/ and authenticate or sign up.
 2. [UiPath Studio](https://www.uipath.com/product/studio) is used to run the robot.  Note that Studio Web can be used directly in Orchestrator but I recommend installing the Studio IDE application.
 
-### GIT NOTES
+### Git Notes
 
 Clone the project to develop or change it.
 
 `git clone https://github.com/ShonHarsh/RPADev-S02P03-Switch-WindowsLegacy`
 
-### LINKS
+### Links
 - [UiPath Automation Platform](https://www.uipath.com/)
 - [UiPath Studio](https://www.uipath.com/product/studio)
 - [Shon Harsh Website 127.0.0.1](https://shonharsh.github.io/curriculum-vitae/index.html)
 - [This.GitHub](https://github.com/shonharsh)
 - [LinkedIn](https://www.linkedin.com/in/shonharsh/)
 
-### RPA DEVELOPER FOUNDATION SECTIONS
+### RPA Developer Foundation Sections
 
 1. Get Started With RPA Development
 
