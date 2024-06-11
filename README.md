@@ -1,4 +1,4 @@
-![UiPath](https://raw.githubusercontent.com/ShonHarsh/curriculum-vitae/Images/Banner-UiPath-01.png)
+![Banner](https://shonharsh.github.io/curriculum-vitae/Images/Banner-UiPath-01.png)
 
 # S02P03 Switch
 
